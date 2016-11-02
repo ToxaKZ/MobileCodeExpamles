@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/navHistory"
+            android:icon="@drawable/ic_history"
+            android:title="@string/history" />
+        <item
+            android:id="@+id/navFavorites"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/favorites" />
+    </group>
+
+    <!--<item-->
+    <!--android:id="@+id/miPurchases"-->
+    <!--android:title="@string/purchases">-->
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:id="@+id/navRestore"-->
+    <!--android:icon="@drawable/ic_restore"-->
+    <!--android:title="@string/restore" />-->
+    <!--<item-->
+    <!--android:id="@+id/navNoAds"-->
+    <!--android:icon="@drawable/ic_shopping"-->
+    <!--android:title="@string/no_ads" />-->
+    <!--</menu>-->
+    <!--</item>-->
+
+    <item
+        android:id="@+id/navRate"
+        android:icon="@drawable/ic_rate"
+        android:title="@string/rate" />
+    <item
+        android:id="@+id/navShare"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share" />
+</menu>

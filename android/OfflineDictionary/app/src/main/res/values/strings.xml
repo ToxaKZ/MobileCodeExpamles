@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Offline Dictionary</string>
+    <string name="search">Search</string>
+    <string name="desc" translatable="false" />
+    <string name="field_prefix">en</string>
+    <string name="close">Close</string>
+    <string name="history">History</string>
+    <string name="favorites">Favorites</string>
+    <string name="purchases">Purchases</string>
+    <string name="no_ads">Remove ADS</string>
+    <string name="restore">Restore</string>
+    <string name="rate">Rate</string>
+    <string name="delete">Delete</string>
+    <string name="question_clear_history">Are you really want to clear the history?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="сlear_the_history">Clear the history</string>
+    <string name="сould_not_find_translation">Could not find a translation</string>
+    <string name="share">Share</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="please_wait">Please wait while data is being processed.</string>
+    <string name="article">Article</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="question_clear_favorites">Are you really want to clear the favorites?</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="database_init">Please wait, the database initialization.</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Словарь</string>
+    <string name="close">Закрыть</string>
+    <string name="field_prefix">ru</string>
+    <string name="search">Поиск</string>
+    <string name="purchases">Покупки</string>
+    <string name="favorites">Избранное</string>
+    <string name="history">История</string>
+    <string name="no_ads">Убрать рекламу</string>
+    <string name="restore">Восстановить</string>
+    <string name="rate">Оценить</string>
+    <string name="delete">Удалить</string>
+    <string name="question_clear_history">Вы действительно хотите очистить историю?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="сlear_the_history">Очистить историю</string>
+    <string name="сould_not_find_translation">Не удалось найти перевод</string>
+    <string name="share">Поделиться</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="please_wait">Пожалуйста подождите, идет обработка данных.</string>
+    <string name="article">Статья</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="question_clear_favorites">Вы действительно хотите очистить избранное?</string>
+    <string name="added_to_favorites">Добавлено в Избранное</string>
+    <string name="database_init">Пожалуйста подождите, идет инициализация базы данных.</string>
+</resources>

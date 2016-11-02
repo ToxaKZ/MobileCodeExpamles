@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/article"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:paddingLeft="@dimen/control_margin_large"
+    android:paddingRight="@dimen/control_margin_large"
+    android:textAppearance="?android:attr/textAppearanceListItem"
+    android:textColor="@color/grey" />

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Oqu
+
+  Created by Ельнар Шопанов on 28.02.16.
+  Copyright © 2016 Ельнар Шопанов. All rights reserved.
+*/
+
+"сould_not_find_translation" = "Не удалось найти перевод";
+"english" = "Английский";
+"russian" = "Русский";
+"kazakh" = "Казахский";
+"field_prefix" = "ru";
+"clear" = "Очистить";
+"question_clear_history" = "Вы действительно хотите очистить историю?";
+"no" = "Нет";
+"yes" = "Да";
+"question_clear_favorites" = "Вы действительно хотите очистить избранное?";
+"search" = "Поиск";

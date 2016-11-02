@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Wörterbuch</string>
+    <string name="close">schließen</string>
+    <string name="add_to_favorites">Zu den Favoriten hinzufügen</string>
+    <string name="added_to_favorites">Zu den Favoriten hinzugefügt</string>
+    <string name="article">Artikel</string>
+    <string name="database_init">Bitte warten Sie, die Datenbank-Initialisierung.</string>
+    <string name="delete">Entfernen</string>
+    <string name="favorites">Favoriten</string>
+    <string name="field_prefix">de</string>
+    <string name="history">Geschichte</string>
+    <string name="navigation_drawer_close">Menü schließen</string>
+    <string name="navigation_drawer_open">Öffnen Sie das Menü</string>
+    <string name="no">Nein</string>
+    <string name="no_ads">Entfernen anzeigen</string>
+    <string name="please_wait">Bitte warten Sie, während die Daten verarbeitet werden.</string>
+    <string name="purchases">Kauf</string>
+    <string name="question_clear_favorites">Sind Sie sicher, dass Sie Lesezeichen zu löschen?</string>
+    <string name="question_clear_history">Wollen Sie wirklich die Geschichte zu löschen?</string>
+    <string name="rate">Beurteilen</string>
+    <string name="restore">Wiederherstellung</string>
+    <string name="search">Suche</string>
+    <string name="share">Aktie</string>
+    <string name="yes">Ja</string>
+    <string name="сlear_the_history">Klare Geschichte</string>
+    <string name="сould_not_find_translation">Es konnte keine Übersetzung gefunden</string>
+</resources>
